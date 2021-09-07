@@ -33,7 +33,11 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ##Gif of working app
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/89956735/132260320-7ad84905-62a4-4ccb-b7af-e61a1db68090.gif)
+
+
+https://user-images.githubusercontent.com/89956735/132272378-e73db580-3da3-4106-a5a4-fb4e7b07948c.mov
+
+
 
 
 ## Notes
