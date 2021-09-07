@@ -35,7 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ##Gif of working app
 
 
-https://user-images.githubusercontent.com/89956735/132272378-e73db580-3da3-4106-a5a4-fb4e7b07948c.mov
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/89956735/132272733-7a01cbf5-a53f-4b9b-a1c1-c985d4c5c3b2.gif)
+
 
 
 
